@@ -1,0 +1,10 @@
+C:\Users\ianez\source\repos\InstaFill\InstaFill\bin\Debug\InstaFill.exe.config
+C:\Users\ianez\source\repos\InstaFill\InstaFill\bin\Debug\InstaFill.exe
+C:\Users\ianez\source\repos\InstaFill\InstaFill\bin\Debug\InstaFill.pdb
+C:\Users\ianez\source\repos\InstaFill\InstaFill\obj\Debug\InstaFill.csproj.AssemblyReference.cache
+C:\Users\ianez\source\repos\InstaFill\InstaFill\obj\Debug\InstaFill.Form1.resources
+C:\Users\ianez\source\repos\InstaFill\InstaFill\obj\Debug\InstaFill.Properties.Resources.resources
+C:\Users\ianez\source\repos\InstaFill\InstaFill\obj\Debug\InstaFill.csproj.GenerateResource.cache
+C:\Users\ianez\source\repos\InstaFill\InstaFill\obj\Debug\InstaFill.csproj.CoreCompileInputs.cache
+C:\Users\ianez\source\repos\InstaFill\InstaFill\obj\Debug\InstaFill.exe
+C:\Users\ianez\source\repos\InstaFill\InstaFill\obj\Debug\InstaFill.pdb
